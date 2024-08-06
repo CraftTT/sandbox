@@ -19,7 +19,6 @@ function pyramid(n) {
     return result;
 }
 
-// Test cases
 console.log(pyramid(0));
 console.log(pyramid(1));
 console.log(pyramid(2));
